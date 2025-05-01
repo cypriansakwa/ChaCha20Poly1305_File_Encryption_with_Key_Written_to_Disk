@@ -31,6 +31,12 @@ The resulting ciphertext, key, and nonce are written to files:
 The program reads the ciphertext, key, and nonce from their respective files, then decrypts the ciphertext using the same key and nonce. The decrypted data is saved in a `decrypted.txt` file.
 
 ---
+## Installation
+Clone the repository and navigate to the project directory:
+```sh
+clone git https://github.com/cypriansakwa/ChaCha20Poly1305_File_Encryption_with_Key_Written_to_Disk.git
+cd ChaCha20Poly1305_File_Encryption_with_Key_Written_to_Disk
+```
 
 ## 🧪 Example Output
 
